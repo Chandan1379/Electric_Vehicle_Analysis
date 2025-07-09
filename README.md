@@ -48,7 +48,7 @@ To help understand how electric vehicles are growing in different states, which 
 
 ## 📁 Files in This Project
 
-- `Electric_Vehicle_Analysis_Summary.pdf` – Dashboard saved as a PDF file
+- `Electric_Vehicle_Analysis.png` – Dashboard saved as a png file
 - `README.md` – This file
 
 ## 💡 Why This Is Useful
