@@ -51,20 +51,6 @@ To help understand how electric vehicles are growing in different states, which 
 - `Electric_Vehicle_Analysis_Summary.pdf` – Dashboard saved as a PDF file
 - `README.md` – This file
 
-> 📌 *Dataset is not shared due to size or restrictions.*
-
-📂 **Public Data Source (Optional)**:  
-[WA State EV Registry](https://catalog.data.gov/dataset/electric-vehicle-population-data)
-
----
-
-## 👀 Quick Look
-
-*(You can add a dashboard image from the PDF here)*  
-📌 _The PDF file shows all the charts and insights clearly._
-
----
-
 ## 💡 Why This Is Useful
 
 ✅ Shows strong Power BI and data storytelling skills  
