@@ -41,7 +41,7 @@ To help understand how electric vehicles are growing in different states, which 
 
 ## 🛠️ Tools Used
 
-- **Power BI** – Latest Version (June 2025)
+- **Power BI** – Latest Version
 - **MS Excel 2021** – For cleaning and organizing data
 
 ---
